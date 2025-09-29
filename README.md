@@ -1,7 +1,7 @@
 # Task_5
 EDA_Analysis
 
-# 🛳️ Titanic Dataset EDA (Exploratory Data Analysis)
+# Titanic Dataset EDA (Exploratory Data Analysis)
 
 ## Project Overview
 This project performs a **comprehensive exploratory data analysis (EDA)** on the Titanic dataset to extract insights about passenger demographics, survival rates, and relationships between key features. The analysis uses **Python, Pandas, Matplotlib, and Seaborn** to visualize and summarize the findings.
@@ -72,4 +72,6 @@ This project performs a **comprehensive exploratory data analysis (EDA)** on the
 **Veera Sai Pavan Chavvakula**  
 - Email: veerasaipavan6673@gmail.com  
 - LinkedIn: [Author](https://www.linkedin.com/in/veera-sai-pavan-chavvakula-6260a72bb)
-"""
+
+- 
+
